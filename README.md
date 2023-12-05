@@ -1,0 +1,3 @@
+# McEliece
+基于汉明纠错码的McEliece算法python实现
+Goppa太难了没搞明白
